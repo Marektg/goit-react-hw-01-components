@@ -1,0 +1,42 @@
+.transactionHistory{
+     box-shadow: 6px 6px 3px rgb(196, 193, 178);
+    margin-top: 20px;
+     margin-left: 50%;
+    transform: translate(-50%);
+    width: 80%;
+    border-radius: 5px;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+
+
+.rowHeader{
+   color: white;
+   font-size: 20px;
+       background-color: aqua;
+    height: 50px;
+    margin: 0;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+.tableRow{
+    color: darkgrey;
+    height: 50px;
+}
+.tableRow:nth-child(even){
+    background-color: rgb(209, 253, 253);
+}
+.tableRow:last-child{
+    box-shadow: 0 6px 1px rgb(196, 193, 178);
+}
+
+.operationType{
+    border-left: 1px solid rgb(209, 240, 253);
+    border-right: 1px solid rgb(209, 240, 253);
+    text-transform: capitalize; 
+}
+.value,
+.curr{
+     border-right: 1px solid rgb(209, 240, 253);
+}
