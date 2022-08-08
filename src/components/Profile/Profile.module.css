@@ -4,6 +4,8 @@
     transform: translate(-50%);
     border: solid 1px gray;
     width: 30%;
+        box-shadow: 10px 10px 5px rgb(196, 193, 178);
+
 }
 
 .description {
@@ -34,12 +36,9 @@
 }
 
 .userstats {
-    list-style: none;
     display: grid;
     grid-template-columns: repeat(3,calc(100%/3));
     justify-content: space-around;
-    margin-left: 0;
-    padding-left: 0;
     margin-bottom: 0;
 }
 
