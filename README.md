@@ -3,10 +3,15 @@ Project made as part of the course [FULLSTACK PROGRAMISTA OD ZERA](https://goit.
 => [Strona projektu](https://marektg.github.io/goit-react-hw-01-components/)
 
 Technologies used:
+
 => HTML
+
 => CSS
+
 => Javascript
+
 => React
+
 
 
 Made by [Marek Kalus](www.linkedin.com/in/marek-kalus-61a240247)
