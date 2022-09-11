@@ -1,6 +1,6 @@
 Project made as part of the course [FULLSTACK PROGRAMISTA OD ZERA](https://goit.global/pl/courses/fullstackonline/?utm_source=main-site) from GOIT.
 
-=> [Strona projektu](https://marektg.github.io/goit-react-hw-01-components/)
+=> [Project page](https://marektg.github.io/goit-react-hw-01-components/)
 
 Technologies used:
 => HTML
